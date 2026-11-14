@@ -1,1 +1,1 @@
-ML project (MLPRegressor - MLPClassifier) (iris - housing values - fashion mnist - CoverType dataset)
+ML project (MLPRegressor - MLPClassifier) (iris - housing values - fashion mnist - CoverType)
