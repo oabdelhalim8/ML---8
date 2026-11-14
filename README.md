@@ -1,1 +1,1 @@
-ML project (MLPRegressor) (iris - housing values - fashion mnist)
+ML project (MLPRegressor - MLPClassifier) (iris - housing values - fashion mnist)
